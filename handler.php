@@ -2,7 +2,7 @@
 <html>
   <head>
     <link rel="stylesheet" href="styles.css">
-    <title>Page Title</title>
+    <title>PHP Form</title>
   </head>
 
   <body>
